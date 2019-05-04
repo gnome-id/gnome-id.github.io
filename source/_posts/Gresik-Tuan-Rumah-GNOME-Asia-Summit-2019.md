@@ -17,7 +17,7 @@ description: Indonesia kembali menjadi tuan rumah GNOME.Asia Summit 2019
 </figure>
 
 
-GNOME.Asia Summit merupakan acara rutin komunitas GNOME di Asia yang digelar setiap tahunnya. Kegiatan ini biasanya digelar selam beberapa hari dan mempertemukan para pengembang, pengguna, dan orang-orang yang memiliki antusiasme terhadap GNOME atau hal-hal terkait dengan tema *open source*. Tak heran, ajang ini selalu dinanti-nanti oleh para teman-teman komunitas di Indonesia maupun Asia.
+GNOME.Asia Summit merupakan acara rutin komunitas GNOME di Asia yang digelar setiap tahunnya. Kegiatan ini biasanya digelar selama beberapa hari dan mempertemukan para pengembang, pengguna, dan orang-orang yang memiliki antusiasme terhadap GNOME atau hal-hal terkait dengan tema *free & open source software*. Tak heran, ajang ini selalu dinanti-nanti oleh para teman-teman komunitas di Indonesia maupun Asia.
 <!--more-->
 
 Tahun 2015 silam, Indonesia pernah menjadi tuan rumah [GNOME.Asia Summit 2015](http://2015.gnome.asia/), tepatnya Kota Depok. Tahun ini, Indonesia kembali mendapat kesempatan untuk menjadi tuan rumah perhelatan akbar ini. Kota Gresik Jawa Timur terpilih menjadi kota tempat diselenggarakannya GNOME.Asia Summit 2019. 
