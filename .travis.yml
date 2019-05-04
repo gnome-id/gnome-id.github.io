@@ -14,7 +14,6 @@ before_script:
 
 deploy:
   provider: script
-  script: 
   script:
   - hexo clean
   - hexo generate
