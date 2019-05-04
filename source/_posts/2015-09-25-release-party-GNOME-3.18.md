@@ -14,6 +14,7 @@ tags: pesta rilis
 Ayo ramaikan rilis party GNOME 3.18!
 
 Setelah sukses mengadakan konferensi GNOME.Asia Summit 2015 lalu, kali ini akan hadir acara rilis party GNOME 3.18 yang merupakan versi terbaru dari pengembangan lingkungan destop GNOME.
+<!--more-->
 
 Waktunya?
 

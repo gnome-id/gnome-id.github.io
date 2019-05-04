@@ -6,7 +6,7 @@ categories: acara
 ---
 
 GNOME.Asia Summit adalah konferensi tahunan GNOME di Asia. Tidak hanya berfokus pada destop GNOME, tetapi juga mencakup aplikasi dan alat pengembangan platform. Summit ini menyatukan komunitas GNOME di Asia untuk menyediakan forum bagi pengguna, pengembang, pemimpin yayasan, pemerintah dan bisnis untuk membahas teknologi saat ini dan perkembangan masa depan.
-
+<!--more-->
 ![Gambar dari Chi-Hung Lin – https://www.flickr.com/photos/92585929@N06/27325096293, CC BY-SA 2.0
 ](https://openingsource.org/wp-content/uploads/2018/04/National_Taiwan_University_of_Science_and_Technology_20160604.jpg)
 

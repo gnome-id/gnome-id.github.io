@@ -8,10 +8,10 @@ tags:
 categories: rilis
 ---
 
-# Memperkenalkan GNOME 3.30: “Almería”
+## Memperkenalkan GNOME 3.30: “Almería”
 
 GNOME 3.30 adalah versi terbaru GNOME 3, dan merupakan hasil kerja kerasselama 6 bulan komunitas GNOME. Ini berisi fitur-fitur baru utama, sertabanyak perbaikan kecil dan perbaikan kutu. Secara total, rilis ini 24845 perubahan, dibuat oleh sekitar 801 kontributor.
-
+<!--more-->
 3.30 telah dinamai “Almería” sebagai pengakuan atas tim pengorganisasian GUADEC tahun ini. GUADEC adalah konferensi tahunan utama GNOME dan hanya dimungkinkan karena kerja luar biasa dari para sukarelawan setempat. Acara tahun ini diadakan di Almería, Spanyol, dan sukses besar. Terima kasih, Tim Almería!
 
 ## Peningkatan Kinerja Destop

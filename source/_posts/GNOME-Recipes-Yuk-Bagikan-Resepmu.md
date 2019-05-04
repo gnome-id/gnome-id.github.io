@@ -12,7 +12,7 @@ categories: acara
 
 ***
 
-Menindaklanjuti kegiatan [GNOME Recipes Hackfest 2018](https://gnome.id/2018/03/03/2018-03-03-Recipes-Hackfest-2018.html) yang digelar pada tanggal 28 Februari--2 Maret 2018 lalu, GNOME Indonesia berkolaborasi dengan beberapa komunitas *open source* seperti BlankOn, Endless, dan openSUSE Indonesia mengadakan kegiatan pengumpulan resep lokal. Kegiatan ini akan digelar mulai Mei hingga Juni 2018.
+Menindaklanjuti kegiatan [GNOME Recipes Hackfest 2018](https://gnome.id/2018/03/03/2018-03-03-Recipes-Hackfest-2018.html) yang digelar pada tanggal 28 Februari--2 Maret 2018 lalu, GNOME Indonesia berkolaborasi dengan beberapa komunitas *open source* seperti BlankOn, Endless, dan openSUSE Indonesia mengadakan kegiatan pengumpulan resep lokal. Kegiatan ini akan digelar mulai Mei hingga Juni 2018.<!--more-->
 
 GNOME Recipes merupakan aplikasi yang dapat membantu Anda untuk memasak dengan menu-menu umum maupun khusus yang telah tersedia di dalam aplikasi. Sayangnya sampai sampai saat ini aplikasi GNOME Recipes belum memuat menu-menu Indonesia. GNOME memerlukan kontribusi dari komunitas untuk dapat memperkaya menu pada GNOME Recipes ini.
 
