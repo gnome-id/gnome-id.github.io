@@ -1,8 +1,10 @@
 ---
 title: Call For Papers GNOME.Asia Summit 2018 Telah Dibuka
 date: 2018-05-09 13:05:46
-tags: GNOME.Asia
-categories: acara
+tags: 
+    - GNOME.Asia
+categories: 
+- [Acara]
 ---
 
 GNOME.Asia Summit adalah konferensi tahunan GNOME di Asia. Tidak hanya berfokus pada destop GNOME, tetapi juga mencakup aplikasi dan alat pengembangan platform. Summit ini menyatukan komunitas GNOME di Asia untuk menyediakan forum bagi pengguna, pengembang, pemimpin yayasan, pemerintah dan bisnis untuk membahas teknologi saat ini dan perkembangan masa depan.

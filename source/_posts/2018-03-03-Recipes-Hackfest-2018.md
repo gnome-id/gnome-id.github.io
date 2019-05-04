@@ -1,10 +1,13 @@
 ---
 title: Recipes Hackfest 2018
 categories:
-  - acara
+  - [Acara]
+  - [Komunitas]
 date: 2018-03-03 12:00:00
 thumbnail: img/2018-03-03/recipes-sticker.png
-tags: hackfest
+tags: 
+    - Hackfest
+    - Agenda GNOME Indonesia
 ---
 
 {% asset_img recipes-sticker.png %}

@@ -1,8 +1,11 @@
 ---
 title: COSCUP X GNOME.Asia Summit X openSUSE.Asia Summit 2018
 date: 2018-08-21 13:00:00
-tags: GNOME.Asia
-categories: acara
+tags: 
+- GNOME.Asia
+categories: 
+- [Acara]
+- [GNOME.Asia]
 ---
 
 ![Berfoto bersama](https://c2.staticflickr.com/2/1811/44065015121_43bdc0fefc_b.jpg)

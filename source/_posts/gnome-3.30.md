@@ -2,10 +2,11 @@
 title: 'GNOME 3.30: "Almería"'
 date: 2018-05-18 12:00:00
 tags: 
-- GNOME
-- GNOME 3.30
-- Almeria
-categories: rilis
+    - GNOME 3.30
+    - Almeria
+categories: 
+- [Rilis]
+- [GNOME Desktop]
 ---
 
 ## Memperkenalkan GNOME 3.30: “Almería”

@@ -1,10 +1,14 @@
 ---
 title: Liputan GNOME 3.18 Release Party Jogja
 categories:
-  - acara
+  - [Acara]
+  - [Rilis]
+  - [GNOME Desktop]
 date: 2015-09-25 13:00:00
 thumbnail: 21800645559_c5b99d9451_c.jpg
-tags: pesta rilis
+tags: 
+    - Pesta Rilis
+    - Agenda Komunitas
 ---
 
 {% asset_img 21800645559_c5b99d9451_c.jpg GNOME 3.18 Release Party %}

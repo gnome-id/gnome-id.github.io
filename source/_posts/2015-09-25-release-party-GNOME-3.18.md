@@ -1,10 +1,14 @@
 ---
 title: Release Party GNOME 3.18
 categories:
-  - acara
+  - [Acara]
+  - [Rilis]
+  - [GNOME Desktop]
 date: 2015-09-25 12:00:00
 thumbnail: poster-gnome.png
-tags: pesta rilis
+tags: 
+    - Pesta Rilis
+    - Agenda Komunitas
 ---
 
 {% asset_img "poster-gnome.png" "GNOME 3.18 Release Party" %}

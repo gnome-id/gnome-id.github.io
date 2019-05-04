@@ -4,8 +4,8 @@ date: 2018-05-18 12:58:11
 tags: 
 - GNOME Recipes
 - Agenda GNOME Indonesia
-- Acara
-categories: acara
+categories: 
+- [Acara]
 ---
 
 ![Poster GNOME Recipes](https://raw.githubusercontent.com/gnome-id/poster/master/gnome-recipe-poster.png)
