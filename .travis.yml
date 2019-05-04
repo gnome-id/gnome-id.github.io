@@ -15,8 +15,10 @@ before_script:
 deploy:
   provider: script
   script: 
-  - npm install hexo --save
-  - npm run build
+  script:
+  - hexo clean
+  - hexo generate
+  - hexo deploy
   on:
     branch: development
 
