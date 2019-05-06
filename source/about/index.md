@@ -1,6 +1,6 @@
 ---
-title: Tentang GNOME Indonesia
-date: 2018-03-29 15:43:02
+title: Tentang GNOME ID
+date: 2019-05-06 19:02:55
 ---
-GNOME Indonesia adalah ...
 
+GNOME Indonesia (GNOME ID) merupakan komunitas GNOME di Indonesia yang turut aktif berkontribusi ke proyek hulu.
