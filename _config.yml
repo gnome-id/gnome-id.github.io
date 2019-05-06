@@ -105,6 +105,7 @@ theme_config:
       <a href="t.me/gnomeid"><i class="fa fa-telegram fa-2x"></i></a>
       <a href="https://twitter.com/GNOME_ID"><i class="fa fa-twitter fa-2x"></i></a>
       <a href="https://github.com/gnome-id"><i class="fa fa-github fa-2x"></i></a>
+      <a href="/atom.xml"><i class="fa fa-rss fa-2x"></i></a>
     </p>
 
 disqus_shortname: gnome-id
