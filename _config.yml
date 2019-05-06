@@ -89,12 +89,14 @@ theme_config:
   favicon: '/img/favicon.ico'
   twitter: GNOME_ID
   menu:
-    Home: index.html
-    Archives: archives/
+    Beranda: index.html
+    GNOME.Asia: tags/GNOME-Asia/
+    Arsip: archives/
+    Tentang: about
   widgets:
    - about
    - category
-   - archive
+#   - archive
    - recent_posts
    - tag
   about_widget_content: >

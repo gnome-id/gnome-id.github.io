@@ -1,8 +1,8 @@
 # Header
-navbar_brand: false
+navbar_brand: true
 menu:
-  Home: index.html
-  Archives: archives/
+  Beranda: index.html
+  Arsip: archives/
 rss: /atom.xml
 
 # Content
