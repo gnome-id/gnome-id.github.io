@@ -51,13 +51,6 @@ code {
   border-radius: 30px;
 }
 
-/* Override Bootstrap's default container width */
-@media (min-width: 1200px) {
-  .container {
-    width: 970px;
-  }
-}
-
 /*
  * Masthead for nav
  */
@@ -316,4 +309,8 @@ code {
 }
 .navbar-nav {
 	margin-top: 10px;
+}
+.img-fluid {
+    width: 100%;
+    height: auto;
 }
