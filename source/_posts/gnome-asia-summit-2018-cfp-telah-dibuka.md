@@ -1,6 +1,7 @@
 ---
 title: Call For Papers GNOME.Asia Summit 2018 Telah Dibuka
 date: 2018-05-09 13:05:46
+thumbnail: https://openingsource.org/wp-content/uploads/2018/04/National_Taiwan_University_of_Science_and_Technology_20160604.jpg
 tags: 
     - GNOME.Asia
 categories: 
