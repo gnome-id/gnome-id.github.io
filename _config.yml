@@ -14,7 +14,7 @@ timezone: Asia/Jakarta
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://gnome.id
 root: /
-permalink: :year/:month/:day/:title.html
+permalink: :title.html
 permalink_defaults:
 
 # Directory
@@ -85,7 +85,7 @@ deploy:
 
 theme_config:
   # Header
-  navbar_brand: <img src="/img/gnome-logo.png">
+  navbar_brand: <img src="/img/gnome-logo.svg">
   favicon: '/img/favicon.ico'
   twitter: GNOME_ID
   menu:
@@ -105,7 +105,7 @@ theme_config:
     <br>
     <p><b>Mari Bersapa</b></p>
     <p>
-      <a href="t.me/gnomeid"><i class="fa fa-telegram fa-2x"></i></a>
+      <a href="https://t.me/gnomeid"><i class="fa fa-telegram fa-2x"></i></a>
       <a href="https://twitter.com/GNOME_ID"><i class="fa fa-twitter fa-2x"></i></a>
       <a href="https://github.com/gnome-id"><i class="fa fa-github fa-2x"></i></a>
       <a href="/atom.xml"><i class="fa fa-rss fa-2x"></i></a>

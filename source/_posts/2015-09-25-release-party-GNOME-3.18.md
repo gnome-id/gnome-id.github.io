@@ -5,21 +5,18 @@ categories:
   - [Rilis]
   - [GNOME Desktop]
 date: 2015-09-25 12:00:00
-thumbnail: poster-gnome.png
+thumbnail: /2015-09-25-release-party-GNOME-3.18/poster-gnome.png
 tags: 
     - Pesta Rilis
     - Agenda Komunitas
 ---
-
-{% asset_img "poster-gnome.png" "GNOME 3.18 Release Party" %}
-
-<p align="center">
 
 Ayo ramaikan rilis party GNOME 3.18!
 
 Setelah sukses mengadakan konferensi GNOME.Asia Summit 2015 lalu, kali ini akan hadir acara rilis party GNOME 3.18 yang merupakan versi terbaru dari pengembangan lingkungan destop GNOME.
 <!--more-->
 
+{% asset_img "poster-gnome.png" "GNOME 3.18 Release Party" %}
 Waktunya?
 
 Sabtu, 3 Oktober 2015
@@ -33,5 +30,3 @@ Jl. Magelang KM 5.0, Yogyakarta
 Untuk info lebih lanjut cek twitter kita aja yah di [@GNOME_ID](http://twitter.com/GNOME_ID)
 
 Sampai jumpa di rilis party GNOME 3.18 Yogyakarta. 🙂
-
-</p>
