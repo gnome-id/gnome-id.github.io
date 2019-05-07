@@ -38,7 +38,7 @@ Nah, sekarang adalah waktu yang tepat bagimu untuk unjuk gigi dalam berkreasi. K
 17. Kompetisi ini dimulai pada tanggal 6 Mei 2019 dan berakhir pada tanggal 21 Juni 2019.
 18. Penilaian dan keputusan panitia/juri tidak dapat diganggu-gugat.
 
-Kami menyediakan bingkisan menarik untuk karya terpilih. Selain itu, logo terpilih akan digunakan menjadi logo resmi kegiatan GNOME.Asia Summit 2019.
+Kami menyediakan bingkisan menarik dan *Free Summit Ticket* untuk karya terpilih. Selain itu, logo terpilih akan digunakan menjadi logo resmi kegiatan GNOME.Asia Summit 2019.
 
 Yuk, segera kirim karya terbaik kamu sebelum tanggal yang telah ditentukan. Pemenang akan diumumkan tanggal 30 Juni 2019.
 
