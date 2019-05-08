@@ -5,8 +5,8 @@ thumbnail: /Sayembara-Logo-GNOME-Asia/thumb.svg
 tags:
 - GNOME.Asia
 categories: 
-- {Acara}
-- {GNOME.Asia}
+- [Acara]
+- [GNOME.Asia]
 ---
 
 Perhelatan tahunan komite GNOME.Asia, yaitu GNOME.Asia Summit, di tahun 2019 ini akan kembali diadakan di Indonesia. Setelah pada tahun 2015 diadakan di Depok, pada tahun ini Gresik mendapat kehormatan menjadi tuan rumah. 
