@@ -90,7 +90,7 @@ theme_config:
   twitter: GNOME_ID
   menu:
     Beranda: index.html
-    GNOME.Asia: tags/GNOME-Asia/
+    GNOME.Asia: categories/gnome-asia/
     Arsip: archives/
     Tentang: about
   widgets:
