@@ -12,7 +12,7 @@ GNOME.Asia Summit 2019 will be held in Gresik, Indonesia in October, 2019. We ar
 1. Logo has to represent Gresik (Culture/History/Food/etc)
 2. Logo has to be interesting, unique, easy-to-understand and related to Gresik and GNOME.Asia Summit 2019.
 3. Please use colors according to [GNOME branding guide](https://s.id/gnome-branding).
-4. Send your artwork in SVG and PNG (256 x 256 px) format. Open-source software is highly recommended.
+4. Send your artwork in SVG and PNG (256 x 256 px) format to humas@gnome.id with "GNOME.Asia Logo" as mail subject. Open-source software is highly recommended.
 5. Logo has to be applicable into media.
 6. Artwork has to be original and not violating copyrights.
 7. GNOME.Asia Summit 2019 committee is not responsible of any violation / plagiarism from submitted artworks.

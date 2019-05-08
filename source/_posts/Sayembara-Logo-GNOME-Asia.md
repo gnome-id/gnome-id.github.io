@@ -23,7 +23,7 @@ Nah, sekarang adalah waktu yang tepat bagimu untuk unjuk gigi dalam berkreasi. K
 2. Logo harus mencerminkan karakteristik Kota Gresik (Budaya, Sejarah, Makanan dan sebagainya).
 3. Logo bersifat menarik, unik, mudah dipahami, dan memiliki makna terkait Gresik dan GNOME.Asia Summit 2019.
 4. Menggunakan warna sesuai dengan panduan [branding GNOME](https://s.id/gnome-branding)
-5. Kirim berkas logo dalam format SVG dan PNG (256 x 256 px). Penggunaan perangkat lunak open source sangat disarankan.
+5. Kirim berkas logo dalam format SVG dan PNG (256 x 256 px) ke humas@gnome.id dengn subjek "GNOME.Asia Logo. Penggunaan perangkat lunak open source sangat disarankan.
 6. Desain logo harus dapat diaplikasikan ke dalam media.
 7. Semua desain yang dikumpulkan merupakan hasil karya asli dan tidak melanggar hak cipta. 
 8. Panitia GNOME.Asia Summit 2019 tidak akan bertanggung jawab secara sebagian maupun penuh untuk hasil-hasil karya plagiarisme yang dikumpulkan. 
