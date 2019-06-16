@@ -16,6 +16,9 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans">
     <%- css('css/index') %>
+    <%- css('css/owl.carousel.min.css') %>
+    <%- css('css/owl.theme.default.min.css') %>
+
     <%- partial('_partial/google-analytics') %>
 </head>
 
@@ -54,16 +57,16 @@
     </header>
     <main id="more" class="more-contents">
         <div class="container">
-            <div class="row">
-                <div class="col-12 col-lg-4 text-center mb-3 mb-lg-0"><img class="more-icons" src="/img/img-discuss.svg">
+            <div class="owl-carousel owl-theme py-5 py-lg-0">
+                <div class="text-center"><img class="more-icons" src="/img/img-discuss.svg">
                     <h3 class="mt-3">Belajar &amp; Diskusi</h3>
                     <p class="mt-3">GNOME Indonesia (GNOME ID) merupakan komunitas nonprofit yang didirikan untuk mendukung penggunaan, promosi dan memberikan bantuan bagi para pengguna lingkungan desktop GNOME di Indonesia.</p>
                 </div>
-                <div class="col-12 col-lg-4 text-center mb-3 mb-lg-0"><img class="img-fluid more-icons" src="/img/img-collaboration.svg">
+                <div class="text-center"><img class="img-fluid more-icons" src="/img/img-collaboration.svg">
                     <h3 class="mt-3">Bergotong Royong</h3>
                     <p class="mt-3">GNOME Indonesia (GNOME ID) merupakan komunitas nonprofit yang didirikan untuk mendukung penggunaan, promosi dan memberikan bantuan bagi para pengguna lingkungan desktop GNOME di Indonesia.</p>
                 </div>
-                <div class="col-12 col-lg-4 text-center mb-3 mb-lg-0"><img class="img-fluid more-icons" src="/img/img-help.svg">
+                <div class="text-center"><img class="img-fluid more-icons" src="/img/img-help.svg">
                     <h3 class="mt-3">Berbagi &amp; Berkontribusi</h3>
                     <p class="mt-3">GNOME Indonesia (GNOME ID) merupakan komunitas nonprofit yang didirikan untuk mendukung penggunaan, promosi dan memberikan bantuan bagi para pengguna lingkungan desktop GNOME di Indonesia.</p>
                 </div>
@@ -81,17 +84,21 @@
                 </article>
             <% }) %>
         <% } %>
-        <a href="blog/" class="btn btn-outline-light btn-selengkapnya px-4" role="button" id="more-artikel">Berita Lainnya</a>
+            <div class="text-center">
+                <a href="blog/" class="btn btn-outline-light btn-selengkapnya px-4" role="button" id="more-artikel">Berita Lainnya</a>
+            </div>
         </div>
     </div>
     <footer>
         <div class="container">
-            <p class="text-center">&copy; <%= date(new Date(), 'YYYY') %> <%= config.author || config.title %><br>
+            <p class="text-center mb-0">&copy; <%= date(new Date(), 'YYYY') %> <%= config.author || config.title %><br>
       <%= __('powered_by') %> <a href="http://hexo.io/" target="_blank">Hexo</a></p>
         </div>
     </footer>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
+    <%- js('js/owl.carousel.min.js') %>
+    <%- js('js/carousel.js') %>
 </body>
 
 </html>
