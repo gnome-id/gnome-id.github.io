@@ -116,18 +116,18 @@ body {
   }
 }
 
-.btn.active.btn-outline-light.header-selengkapnya, .btn.btn-outline-light.header-selengkapnya:focus, .btn.btn-outline-light.header-selengkapnya:hover {
+.btn.active.btn-outline-light.btn-selengkapnya, .btn.btn-outline-light.btn-selengkapnya:focus, .btn.btn-outline-light.btn-selengkapnya:hover {
   color: #4a86cf;
 }
 
-.btn.btn-outline-light.header-selengkapnya {
+.btn.btn-outline-light.btn-selengkapnya {
   font-size: 1em;
   border-radius: 50px;
   color: #fff;
 }
 
 @media (min-width: 1920px) {
-  .btn.btn-outline-light.header-selengkapnya {
+  .btn.btn-outline-light.btn-selengkapnya {
     font-size: 1.2em;
   }
 }
@@ -157,6 +157,22 @@ main.more-contents {
   background-color: #fff;
   padding: 120px;
   color: #52585f;
+}
+
+.artikel {
+  max-width: 90%;
+  margin-bottom: 50px;
+}
+
+#more-artikel {
+  color: #52585f;
+  border-color: #52585f;
+}
+
+.btn#more-artikel:hover, .btn#more-artikel:active, .btn#more-artikel:focus {
+  color: white;
+  background-color: #4a86cf;
+  border-color: #4a86cf;
 }
 
 footer {
