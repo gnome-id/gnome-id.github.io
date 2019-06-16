@@ -32,7 +32,7 @@ new_post_name: :title.md # File name of new posts
 default_layout: post
 titlecase: true # Transform title into titlecase
 external_link: true # Open external links in new tab
-filename_case: 0
+filename_case: 1
 render_drafts: false
 post_asset_folder: true
 relative_link: false
@@ -48,7 +48,7 @@ highlight:
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
-  path: ''
+  path: 'blog'
   per_page: 5
   order_by: -date
   
@@ -90,7 +90,7 @@ theme_config:
   twitter: GNOME_ID
   menu:
     Beranda: index.html
-    GNOME.Asia: tags/GNOME-Asia/
+    GNOME.Asia: categories/gnome-asia/
     Arsip: archives/
     Tentang: about
   widgets:
