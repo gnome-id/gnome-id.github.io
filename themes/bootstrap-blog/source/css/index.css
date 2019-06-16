@@ -65,7 +65,7 @@ body {
 
 @media (max-width:990px) {
   .header-content-image {
-    background-image: url(../../assets/img/img-main-mini.svg);
+    background-image: url(/img/img-main-mini.svg);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -91,6 +91,19 @@ body {
 @media (max-width:990px) {
   .header-text-content > div.image-holder > img {
     max-width: 50%;
+  }
+}
+
+
+.news-contents {
+  background-color: #fff;
+  padding: 120px;
+  color: #52585f;
+}
+
+@media (max-width: 990px) {
+  .news-contents {
+    padding: 35px;
   }
 }
 
@@ -151,12 +164,6 @@ main.more-contents {
 
 .image-holder .img-fluid {
   max-width: 80%;
-}
-
-.news-contents {
-  background-color: #fff;
-  padding: 120px;
-  color: #52585f;
 }
 
 .artikel {
