@@ -94,6 +94,19 @@ body {
   }
 }
 
+@media (max-width: 990px) {
+  .news-contents {
+    padding: 30px;
+  }
+}
+
+.news-contents {
+  background-color: #fff;
+  padding: 120px;
+  color: #52585f;
+}
+
+
 .social-icons i {
   font-size: 24px;
   display: inline-block;
@@ -151,12 +164,6 @@ main.more-contents {
 
 .image-holder .img-fluid {
   max-width: 80%;
-}
-
-.news-contents {
-  background-color: #fff;
-  padding: 120px;
-  color: #52585f;
 }
 
 .artikel {
