@@ -1,13 +1,14 @@
 ---
 title: Wajah Baru GNOME.ID
 date: 2019-06-17 21:06:28
+thumbnail: /wajah-baru-gnome-id/img.png
 tags: 
 	- [Komunitas GNOME Indonesia]
 categories:
 	- Agenda Komunitas
 ---
 
-Terhitung sejak tanggal 17 Juni kemarin, apabila Anda mengakses laman GNOME dot ID (GdID), maka Anda akan disuguhi dengan tampilan situs yang baru dan tentunya lebih segar daripada sebelumnya. Apa yang terjadi pada laman situs GdID tentunya bukan semata simsalabin dan secara tiba-tiba berubah begitu saja. Di balik wajah barunya tersebut, terdapat kerja keras para relawan dari komunitas GNOME Indonesia. 
+Terhitung sejak tanggal 17 Juni kemarin, apabila Anda mengakses laman GNOME dot ID (GdID), maka Anda akan disuguhi dengan tampilan situs yang baru dan tentunya lebih segar daripada sebelumnya. Apa yang terjadi pada laman situs GdID <!--more-->tentunya bukan semata simsalabin dan secara tiba-tiba berubah begitu saja. Di balik wajah barunya tersebut, terdapat kerja keras para relawan dari komunitas GNOME Indonesia. 
 
 Para relawan tersebut bekerja secara kolaboratif di waktu-waktu senggangnya untuk memperbaiki laman GdID ini. Beberapa dari mereka ada yang berkontribusi dengan membuat rancangan/konsep/mockup halaman, menyiapkan aset-aset gambar/ilustrasi, menulis kode-kode untuk merealisasikan mockup, hingga menguji tiap perubahan yang telah berhasil diwujudkan tersebut secara berkala. Alhasil, upaya kolaboratif tersebut telah dapat Anda akses seperti saat ini.
 
