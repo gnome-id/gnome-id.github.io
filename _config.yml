@@ -91,7 +91,7 @@ theme_config:
   menu:
     Beranda: index.html
     GNOME.Asia: categories/gnome-asia/
-    Arsip: archives/
+    Blog: blog/
     Tentang: about
   widgets:
    - about
