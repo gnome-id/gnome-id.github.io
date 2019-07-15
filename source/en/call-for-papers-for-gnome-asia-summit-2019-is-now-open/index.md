@@ -1,6 +1,8 @@
 ---
 title: Call for Papers for GNOME.Asia Summit 2019 is Now Open!
 date: 2019-07-15 15:58:30
+other_lang: id
+lang_path: /call-for-papers-gnome-asia-summit-2019-dibuka.html
 ---
 ![Call for Papers Poster](/call-for-papers-gnome-asia-summit-2019-dibuka/cfp.png)
 
@@ -66,5 +68,3 @@ The reviewers team will evaluate the entries based on the submitted abstracts an
 There will be an opportunity for speakers and GNOME Foundation members to request travel support by the GNOME Foundation. Please submit your application to the GNOME Travel Committee. For further information please [refer to this guides](https://wiki.gnome.org/Travel). All interested contributors are highly encouraged to send in talks. 
 
 More information about GNOME.Asia Summit 2019 is available at https://asiasummit.gnome.id.
-
-<div class="btn-group-md"><br><a class="btn btn-primary" role="button" style="background-color: rgba(0,123,255,0);color: #007bff;" href="/call-for-papers-gnome-asia-summit-2019-dibuka.html">Lihat Versi Bahasa Indonesia</a></div> 

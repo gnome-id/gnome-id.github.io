@@ -2,6 +2,8 @@
 title: 'Call for Papers GNOME.Asia Summit 2019, Dibuka'
 date: 2019-07-15 15:27:46
 thumbnail: /call-for-papers-gnome-asia-summit-2019-dibuka/cfp.png
+other_lang: en
+lang_path: /en/call-for-papers-for-gnome-asia-summit-2019-is-now-open/
 tags:
 - GNOME.Asia
 categories: 
@@ -69,5 +71,3 @@ Harap berikan abstrak singkat dari proposal Anda (di bawah 200 kata). Sertakan n
 ### Subsidi Perjalanan
 
 Untuk para pembicara dan kontributor GNOME, kami memberikan kesempatan untuk mengajukan subsidi perjalanan dari Yayasan GNOME. Silakan kirim pengajuan subsidi Anda ke GNOME Travel Committee. Untuk informasi lebih lanjut silakan lihat [panduan ini](https://wiki.gnome.org/Travel). Informasi terkini tentang GNOME.Asia Summit 2019 tersedia di https://asiasummit.gnome.id. 
-
-<div class="btn-group-md"><br><a class="btn btn-primary" role="button" style="background-color: rgba(0,123,255,0);color: #007bff;" href="/en/call-for-papers-for-gnome-asia-summit-2019-is-now-open/">Read EN Version</a></div> 

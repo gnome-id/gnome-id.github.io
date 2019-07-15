@@ -24,6 +24,9 @@
         <% if (theme.excerpt_link){ %>
           <p class="article-more-link">
             <a class="btn btn-primary" href="<%- url_for(post.path) %>#more"><%= theme.excerpt_link %></a>
+            <% if (post.other_lang) { %>
+                <a class="btn btn-primary" href="<%- url_for(post.lang_path) %>"><%= post.other_lang.toUpperCase() %> Version</a>
+            <% } %>
           </p>
         <% } %>
       <% } else { %>
