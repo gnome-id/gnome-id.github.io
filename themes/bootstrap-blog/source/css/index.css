@@ -145,6 +145,20 @@ body {
   }
 }
 
+
+
+@media (min-width: 1920px) {
+    .btn.btn-outline-light.btn-selengkapnya{
+        font-size: .75em !important;
+    }
+}
+
+@media (min-width: 1920px) {
+    .text-white{
+        font-size: .75em;
+    }
+}
+
 main.more-contents {
   background-color: #f5f5f5;
   color: #4a86cf;
