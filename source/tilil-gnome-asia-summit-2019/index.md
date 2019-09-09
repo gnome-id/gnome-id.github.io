@@ -3,7 +3,7 @@ title: Tanya Jawab Seputar Registrasi GNOME.Asia Summit 2019
 date: 2019-09-09 23:37:50
 ---
 
-Berikut merupakan pertanyaan-bertanyaan yang sering ditanyakan seputar registrasi GNOME.Asia Summit 2019.
+Berikut merupakan pertanyaan-bertanyaan yang sering ditanyakan seputar registrasi GNOME.Asia Summit 2019. Silakan hubungi Kami melalui surel [humas@gnome.id](mailto:humas@gnome.id) apabila masih ada pertanyaan yang belum terjawab via laman ini.
 <br>
 
 ### 01 <br> T: Saya sudah mendaftar tapi mengapa belum menerima surel verifikasi?
