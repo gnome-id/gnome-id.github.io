@@ -7,7 +7,7 @@ lang_path: /pendaftaran-gnome-asia-summit-2019-dibuka.html
 October, 12th & 13th 2019 will be big days for Gresik. There will be Asia-level event, GNOME.Asia Summit 2019, held on those days.
 <!--more-->
 
-![GNOME.Asia Summit 2019 Poster](/pendataran-gnome-asia-summit-2019-dibuka/feed-dark-purple-min.png)
+![GNOME.Asia Summit 2019 Poster](/pendaftaran-gnome-asia-summit-2019-dibuka/feed-dark-purple-min.png)
 
 GNOME.Asia Summit is the featured annual GNOME conference in Asia. It focuses primarily on the GNOME desktop, but also covers applications and platform development tools. The summit brings together the GNOME community in Asia to provide a forum for users, developers, foundation leaders, governments and businesses to discuss the present technology and future developments.
 

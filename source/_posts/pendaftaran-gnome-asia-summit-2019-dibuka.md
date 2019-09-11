@@ -13,7 +13,7 @@ categories:
 Tanggal 12 & 13 Oktober 2019 nanti akan menjadi hari yang besar bagi kota Gresik. Dalam dua hari tersebut akan diselenggarakan perhelatan setingkat Asia yaitu GNOME.Asia Summit 2019.
 <!--more-->
 
-![Poster GNOME.Asia Summit 2019](/pendataran-gnome-asia-summit-2019-dibuka/feed-dark-purple-min.png)
+![Poster GNOME.Asia Summit 2019](/pendaftaran-gnome-asia-summit-2019-dibuka/feed-dark-purple-min.png)
 
 GNOME.Asia Summit merupakan acara rutin komunitas GNOME di Asia yang digelar setiap tahunnya. Kegiatan ini akan digelar selama dua hari berturut-turut tersebut dan mempertemukan para pengembang, pengguna, dan orang-orang yang memiliki antusiasme terhadap GNOME atau hal-hal terkait dengan tema free & open source software. Tak heran, ajang ini selalu dinanti-nanti oleh para teman-teman komunitas di Indonesia maupun Asia.
 
