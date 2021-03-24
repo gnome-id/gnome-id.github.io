@@ -1,6 +1,6 @@
 ---
-title: 'GNOME 40"'
-date: 2021-03-21 12:00:00
+title: 'GNOME 40'
+date: 2021-03-25 12:00:00
 thumbnail: /GNOME-40/40-fullcolor.png
 tags: 
     - GNOME 40
