@@ -5,10 +5,10 @@
     <meta charset="utf-8">
     <%- open_graph({twitter_id: theme.twitter_id, google_plus: theme.google_plus, fb_admins: theme.fb_admins, fb_app_id: theme.fb_app_id}) %>
     <% if (theme.rss){ %>
-        <link rel="alternate" href="<%- url_for(theme.rss) %>" title="<%= config.title %>" type="application/atom+xml">
+    <link rel="alternate" href="<%- url_for(theme.rss) %>" title="<%= config.title %>" type="application/atom+xml">
     <% } %>
     <% if (theme.favicon){ %>
-        <link rel="icon" href="<%- url_for(theme.favicon) %>">
+    <link rel="icon" href="<%- url_for(theme.favicon) %>">
     <% } %>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <title>GNOME Indonesia</title>
@@ -26,18 +26,17 @@
     <header class="main-header">
         <nav class="navbar navbar-dark navbar-expand-md navigation-clean">
             <div class="container-fluid"><a class="navbar-brand pl-0 pl-xl-5" href="#"><img src="/img/img-navbar.svg"></a><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
-                <div
-                    class="collapse navbar-collapse" id="navcol-1">
+                <div class="collapse navbar-collapse" id="navcol-1">
                     <ul class="nav navbar-nav ml-auto">
-                    <% for (var i in theme.menu){ %>
+                        <% for (var i in theme.menu){ %>
                         <li class="nav-item" role="presentation"><a class="<%= is_current(theme.menu[i]) ? 'active' : '' %> nav-link" href="<%- url_for(theme.menu[i]) %>"><%= i %></a></li>
-                    <% } %>
-                        
+                        <% } %>
+
                     </ul>
-            </div>
+                </div>
             </div>
         </nav>
-        <div class="container-fluid header-content">
+        <div class="container header-content d-flex align-items-center" style="min-height: 90vh;">
             <div class="row">
                 <div class="col-12 d-block d-lg-none p-2 mb-5">
                     <div class="header-content-image"></div>
@@ -46,8 +45,14 @@
                     <div class="header-text-content pl-0 pl-xl-5">
                         <div class="image-holder"><img class="img-fluid" src="/img/img-header.svg"></div>
                         <p class="text-white px-3 px-lg-0">GNOME Indonesia (GNOME ID) merupakan komunitas nonprofit yang didirikan untuk mendukung penggunaan, promosi dan memberikan bantuan bagi para pengguna lingkungan desktop GNOME di Indonesia.</p>
-                        <div class="social-icons"><a href="#"><i class="fab fa-telegram"></i></a><a href="#"><i class="fab fa-twitter"></i></a><a href="#"><i class="fab fa-github"></i></a><a href="#"><i class="fas fa-envelope-open-text"></i></a></div><a class="btn btn-outline-light btn-selengkapnya px-4"
-                            role="button" href="#more">Selengkapnya</a></div>
+                        <div class="social-icons">
+                            <a href="https://t.me/gnomeid"><i class="fab fa-telegram"></i></a>
+                            <a href="https://twitter.com/GNOME_ID"><i class="fab fa-twitter"></i></a>
+                            <a href="https://github.com/gnome-id/"><i class="fab fa-github"></i></a>
+                            <!--a href="#"><i class="fas fa-envelope-open-text"></i></a-->
+                        </div>
+                        <a class="btn btn-outline-light btn-selengkapnya px-4" role="button" href="#more">Selengkapnya</a>
+                    </div>
                 </div>
                 <div class="col-lg-6 col-xl-6 d-none d-lg-block p-2">
                     <div class="header-content-image"><img class="img-fluid" src="/img/img-main.svg"></div>
@@ -56,7 +61,7 @@
         </div>
     </header>
     <main id="more" class="more-contents">
-        <div class="container">
+        <div class="container d-flex align-items-center" style="min-height: 80vh;">
             <div class="owl-carousel owl-theme py-5 py-lg-0">
                 <div class="text-center"><img class="more-icons" src="/img/img-discuss.svg">
                     <h3 class="mt-3">Belajar &amp; Diskusi</h3>
@@ -75,15 +80,17 @@
     </main>
     <div id="news" class="news-contents">
         <div class="container">
-        <% if (site.posts.length){ %>
+            <% if (site.posts.length){ %>
             <% site.posts.sort('date', -1).limit(5).each(function(post){ %>
-                <article id="<%= post.layout %>-<%= post.slug %>" class="artikel">
-                    <small class="tanggal"><%- date(post.date,"LL") %></small>
-                    <a href="<%- url_for(post.path) %>"><h3 class="judul"><%= post.title || '(no title)' %></h3></a>
-                    <%- post.excerpt %>
-                </article>
+            <article id="<%= post.layout %>-<%= post.slug %>" class="artikel">
+                <small class="tanggal"><%- date(post.date,"LL") %></small>
+                <a href="<%- url_for(post.path) %>">
+                    <h3 class="judul"><%= post.title || '(no title)' %></h3>
+                </a>
+                <%- post.excerpt %>
+            </article>
             <% }) %>
-        <% } %>
+            <% } %>
             <div class="text-center">
                 <a href="blog/" class="btn btn-outline-light btn-selengkapnya px-4" role="button" id="more-artikel">Berita Lainnya</a>
             </div>
@@ -92,7 +99,7 @@
     <footer>
         <div class="container">
             <p class="text-center mb-0">&copy; <%= date(new Date(), 'YYYY') %> <%= config.author || config.title %><br>
-      <%= __('powered_by') %> <a href="http://hexo.io/" target="_blank">Hexo</a></p>
+                <%= __('powered_by') %> <a href="http://hexo.io/" target="_blank">Hexo</a></p>
         </div>
     </footer>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
